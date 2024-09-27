@@ -90,6 +90,22 @@ This async IIFE (Immediately Invoked Function Expression) performs the following
 - Always use secure methods to generate and store mnemonic phrases and private keys.
 - Consider implementing additional security features like encryption and secure key storage.
 
+## Future Plans
+
+We are continuously working to improve and expand the functionality of this Solana Web Wallet Generator. Here are some features we plan to implement in the near future:
+
+1. Balance Checker: We will add a feature to check the balance of generated wallet addresses. This will allow users to easily view the SOL balance of each derived address without leaving the application.
+
+2. Transaction History: We plan to implement a transaction history feature. This will enable users to view past transactions for each generated wallet address, providing a comprehensive overview of the wallet's activity. The transaction history will include details such as:
+   - Transaction hashes
+   - Dates and times of transactions
+   - Amounts transferred
+   - Sender and recipient addresses
+
+These upcoming features will significantly enhance the functionality of the wallet generator, making it a more comprehensive tool for Solana developers and users.
+
+Stay tuned for these exciting updates! We're committed to making this tool even more useful for the Solana community.
+
 ## Contributing
 
 Contributions to this project are welcome. Please follow these steps:
